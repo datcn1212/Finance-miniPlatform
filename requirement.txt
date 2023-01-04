@@ -1,3 +1,5 @@
+vnstock
+pandas
 elasticsearch
 redis
 pyspark
