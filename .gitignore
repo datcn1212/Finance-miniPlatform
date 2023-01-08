@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 logs
 crawl/node_modules
-stock_price_final.csv
+stocks_price_final.csv
